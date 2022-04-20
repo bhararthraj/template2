@@ -16,28 +16,28 @@
 .child1{
     height: 60px;
     flex:0.3;
-    background-color: aqua;
+    background-color: pink;
 }
 .child2{
     height: 60px;
     flex:0.2;
-    background-color: rgb(255, 51, 0);
+    background-color:pink ;
 }
 .container2{
     display:flex;
     justify-content:center;
 }
 .child3{
-    height: 60px;
-    flex:0.2;
-    background-color: royalblue;
+    height: 50px;
+    flex:0.3;
+    background-color: pink;
 }
 .container3{
     display:flex;
     justify-content:center;
 }
 .child4{
-    height:30px;
+    height:10px;
     flex:0.1;
     background-color: pink;
     margin-top: 1%;
@@ -54,12 +54,12 @@
     margin: 1%;
 }
 .child5{
-    height:20px;
+    height:15px;
     flex: 0.2;
     background-color: grey;
 }
 .child6{
-    height:30px;
+    height:25px;
     flex: 0.3;
     background-color: grey;
 }
@@ -74,12 +74,40 @@
     margin: 1%;
 }
 .child8{
-    height: 20px;
+    height: 15px;
     flex: 0.2;
     background-color: grey;
 }
 .child9{
-    height: 100px;
+    height: 50px;
     flex: 0.7;
     background-color: grey;
+}
+.container6{
+    display: flex;
+    justify-content: center ;
+    margin: 1%;
+}
+.child10{
+    height: 15px;
+        flex:0.4;
+        background-color: grey;
+        margin-top: auto;
+}
+.container7{
+    display:flex;
+    justify-content:center;
+    margin:1%;
+}
+.child11{
+        height: 25px;
+        flex:0.4;
+        background-color: grey;
+        margin-left:13%;
+}
+.child12{
+    height: 15px;
+    flex:0.2;
+    background-color: grey;
+    margin:1%;
 }
