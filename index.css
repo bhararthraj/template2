@@ -110,5 +110,41 @@
     flex:0.2;
     background-color: grey;
     margin-left:1%;
+    align-self:center;
+}
+.container8{
+    display:flex;
+    margin-top:4%;
 
+}
+.child13{
+    height:15px;
+    flex:0.6;
+    display: flex;
+    justify-content:space-between;
+}
+.child14{
+    height:15px;
+    flex:0.4;
+    border: 1px solid black;
+}
+.box1{
+    flex:0.3;
+    height:100%;
+    border:1px solid black;
+}
+.box2{
+    flex:0.3;
+    height:100%;
+    border:1px solid black;
+}
+.box3{
+    flex:0.3;
+    height:100%;
+    border:1px solid black;
+}
+.box4{
+    flex:0.3;
+    height:100%;
+  
 }
