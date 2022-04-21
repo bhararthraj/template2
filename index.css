@@ -118,33 +118,68 @@
 
 }
 .child13{
-    height:15px;
+    height:25px;
     flex:0.6;
     display: flex;
-    justify-content:space-between;
+    justify-content:space-around;
 }
 .child14{
     height:15px;
+    display:flex;
     flex:0.4;
-    border: 1px solid black;
+
+    justify-content: flex-end;
 }
 .box1{
     flex:0.3;
     height:100%;
     border:1px solid black;
+    background-color: pink;
 }
 .box2{
     flex:0.3;
     height:100%;
     border:1px solid black;
+    background-color: pink;
 }
 .box3{
     flex:0.3;
     height:100%;
     border:1px solid black;
+    background-color: pink;
 }
 .box4{
-    flex:0.3;
+    flex:0.2;
     height:100%;
-  
+    background-color: grey;
+    border:1px solid black;
+    align-self:center;
+}
+.pinkcontainer2{
+    background-color: pink;
+}
+.pink1{
+    display: flex;
+    justify-content:space-between;
+    padding:2%;
+}
+.child15{
+    height:30px;
+    flex:0.3;
+    background-color: grey;
+}
+.child16{
+    height:30px;
+    flex:0.3;
+    background-color: grey;
+}
+.child17{
+    width:10%;
+    height:20px;
+    background-color: grey;
+    margin-left:2%;
+}
+.pink2{
+    display:flex;
+    
 }
